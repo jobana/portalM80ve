@@ -69,3 +69,4 @@ end
 gem 'mail_form'
 gem 'simple_form'
 gem 'devise'
+gem 'rails_12factor'
