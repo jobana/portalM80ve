@@ -65,9 +65,11 @@ end
 
 group :production do
 gem 'pg'
+gem 'rails_12factor'
 end
 
 gem 'mail_form'
 gem 'simple_form'
 gem 'devise'
 group :assets do gem 'turbo-sprockets-rails3' end
+
